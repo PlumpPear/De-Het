@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { dutchNouns } from './words.js';
+import { Analytics } from '@vercel/analytics/react';
 
 function shuffle(array) {
   const shuffled = [...array];
@@ -251,6 +252,7 @@ export default function DutchVocabApp() {
         </svg>
         <span className="text-sm">Start over</span>
       </button>
+      <Analytics />
     </div>
   );
 }
