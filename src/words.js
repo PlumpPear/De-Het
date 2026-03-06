@@ -103,7 +103,7 @@ export const dutchNouns = [
   { word: 'tapijt', article: 'het', translation: 'carpet' },
   { word: 'kussen', article: 'het', translation: 'pillow/cushion' },
   { word: 'deken', article: 'de', translation: 'blanket' },
-  { word: 'lakens', article: 'het', translation: 'sheets' },
+  { word: 'laken', article: 'de', translation: 'sheet' },
   { word: 'matras', article: 'de', translation: 'mattress' },
   { word: 'boekenkast', article: 'de', translation: 'bookcase' },
   { word: 'nachtkastje', article: 'het', translation: 'nightstand' },
@@ -573,7 +573,7 @@ export const dutchNouns = [
   // Sports & Leisure
   { word: 'sport', article: 'de', translation: 'sport' },
   { word: 'voetbal', article: 'het', translation: 'soccer/football' },
-  { word: 'basketbal', article: 'het', translation: 'basketball' },
+  { word: 'basketbal', article: 'de', translation: 'basketball' },
   { word: 'volleybal', article: 'het', translation: 'volleyball' },
   { word: 'tennis', article: 'het', translation: 'tennis' },
   { word: 'golf', article: 'het', translation: 'golf' },
