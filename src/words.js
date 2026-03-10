@@ -308,7 +308,7 @@ export const dutchNouns = [
   { word: 'rivier', article: 'de', translation: 'river' },
   { word: 'meer', article: 'het', translation: 'lake' },
   { word: 'zee', article: 'de', translation: 'sea' },
-  { word: 'oceaan', article: 'de', translation: 'ocean' },
+  { word: 'zee', article: 'de', translation: 'ocean' },
   { word: 'strand', article: 'het', translation: 'beach' },
   { word: 'eiland', article: 'het', translation: 'island' },
   { word: 'woestijn', article: 'de', translation: 'desert' },
