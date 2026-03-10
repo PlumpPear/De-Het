@@ -252,6 +252,16 @@ export default function DutchVocabApp() {
         </svg>
         <span className="text-sm">Start over</span>
       </button>
+      {/* About */}
+      <div className="mt-16 mb-8 max-w-md text-center px-4">
+        <h2 className="text-slate-400 text-xs font-medium mb-2">About Lidwoorden.net</h2>
+        <p className="text-slate-400 text-xs leading-relaxed mb-2">
+          Learning Dutch I was constantly running into the same question: is it <em>de</em> or <em>het</em>? Even after studying the language for years, remembering the correct lidwoorden for common nouns needed practice. People often wonder… de of het systeem, de of het team, de of het factuur?
+        </p>
+        <p className="text-slate-400 text-xs leading-relaxed">
+          I created Lidwoorden.net as a simple way to keep practicing de or het and stay sharp. The site helps learners (of moedertaalsprekers) practice Dutch articles (lidwoorden) so you can confidently remember whether a word uses <em>de</em> or <em>het</em>.
+        </p>
+      </div>
       <Analytics />
     </div>
   );
