@@ -191,7 +191,7 @@ export const dutchNouns = [
   { word: 'frisdrank', article: 'de', translation: 'soft drink' },
   { word: 'soep', article: 'de', translation: 'soup' },
   { word: 'salade', article: 'de', translation: 'salad' },
-  { word: 'sandwich', article: 'de', translation: 'sandwich' },
+  { word: 'boterham', article: 'de', translation: 'sandwich' },
   { word: 'taart', article: 'de', translation: 'cake/pie' },
   { word: 'koekje', article: 'het', translation: 'cookie' },
   { word: 'chocolade', article: 'de', translation: 'chocolate' },
